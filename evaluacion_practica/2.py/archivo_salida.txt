@@ -1,0 +1,4 @@
+Número total de líneas: 1
+Número total de palabras: 10
+Número total de caracteres: 41
+Ocurrencias de palabras: {'hola': 2, 'esto': 1, 'es': 1, 'una': 1, 'prueba': 1, 'para': 1, 'ver': 1, 'si': 1, 'funciona,': 1}
